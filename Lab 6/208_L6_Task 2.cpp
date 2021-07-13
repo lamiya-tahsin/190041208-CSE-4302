@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//git commit
 class Coordinate{
 private:
     float abscissa;
