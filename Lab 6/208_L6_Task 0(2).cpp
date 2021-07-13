@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-//git commit check
+//git commit
 ////////////////////////////////////////////////////////////////
 class time24
 {
