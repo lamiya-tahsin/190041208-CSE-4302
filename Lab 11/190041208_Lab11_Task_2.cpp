@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//git push
 enum person_type {tstudent,tteacher};
 const int MAX=1000;
 
