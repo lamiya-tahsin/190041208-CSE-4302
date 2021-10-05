@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//git push
 template <typename T>
 T amax(const T a[], const int &asize)
 {
